@@ -1,0 +1,10 @@
+C:\Users\ricardo\Desktop\Ledesma.Ricardo.2A\TestEntidades\bin\Debug\TestEntidades.exe.config
+C:\Users\ricardo\Desktop\Ledesma.Ricardo.2A\TestEntidades\bin\Debug\TestEntidades.exe
+C:\Users\ricardo\Desktop\Ledesma.Ricardo.2A\TestEntidades\bin\Debug\TestEntidades.pdb
+C:\Users\ricardo\Desktop\Ledesma.Ricardo.2A\TestEntidades\bin\Debug\Entidades.dll
+C:\Users\ricardo\Desktop\Ledesma.Ricardo.2A\TestEntidades\bin\Debug\Entidades.pdb
+C:\Users\ricardo\Desktop\Ledesma.Ricardo.2A\TestEntidades\obj\Debug\TestEntidades.csprojAssemblyReference.cache
+C:\Users\ricardo\Desktop\Ledesma.Ricardo.2A\TestEntidades\obj\Debug\TestEntidades.csproj.CoreCompileInputs.cache
+C:\Users\ricardo\Desktop\Ledesma.Ricardo.2A\TestEntidades\obj\Debug\TestEntidades.csproj.CopyComplete
+C:\Users\ricardo\Desktop\Ledesma.Ricardo.2A\TestEntidades\obj\Debug\TestEntidades.exe
+C:\Users\ricardo\Desktop\Ledesma.Ricardo.2A\TestEntidades\obj\Debug\TestEntidades.pdb
