@@ -1,0 +1,10 @@
+C:\Users\ricardo\source\repos\GenericEjercicio\TestEntidades\bin\Debug\TestEntidades.exe.config
+C:\Users\ricardo\source\repos\GenericEjercicio\TestEntidades\bin\Debug\TestEntidades.exe
+C:\Users\ricardo\source\repos\GenericEjercicio\TestEntidades\bin\Debug\TestEntidades.pdb
+C:\Users\ricardo\source\repos\GenericEjercicio\TestEntidades\bin\Debug\GenericEjercicio.dll
+C:\Users\ricardo\source\repos\GenericEjercicio\TestEntidades\bin\Debug\GenericEjercicio.pdb
+C:\Users\ricardo\source\repos\GenericEjercicio\TestEntidades\obj\Debug\TestEntidades.csprojAssemblyReference.cache
+C:\Users\ricardo\source\repos\GenericEjercicio\TestEntidades\obj\Debug\TestEntidades.csproj.CoreCompileInputs.cache
+C:\Users\ricardo\source\repos\GenericEjercicio\TestEntidades\obj\Debug\TestEntidades.csproj.CopyComplete
+C:\Users\ricardo\source\repos\GenericEjercicio\TestEntidades\obj\Debug\TestEntidades.exe
+C:\Users\ricardo\source\repos\GenericEjercicio\TestEntidades\obj\Debug\TestEntidades.pdb
