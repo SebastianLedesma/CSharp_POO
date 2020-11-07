@@ -1,6 +1,0 @@
-C:\Users\ricardo\source\repos\GenericEjercicio\GenericEjercicio\bin\Debug\GenericEjercicio.dll
-C:\Users\ricardo\source\repos\GenericEjercicio\GenericEjercicio\bin\Debug\GenericEjercicio.pdb
-C:\Users\ricardo\source\repos\GenericEjercicio\GenericEjercicio\obj\Debug\Entidades.csprojAssemblyReference.cache
-C:\Users\ricardo\source\repos\GenericEjercicio\GenericEjercicio\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
-C:\Users\ricardo\source\repos\GenericEjercicio\GenericEjercicio\obj\Debug\GenericEjercicio.dll
-C:\Users\ricardo\source\repos\GenericEjercicio\GenericEjercicio\obj\Debug\GenericEjercicio.pdb
